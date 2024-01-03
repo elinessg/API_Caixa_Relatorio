@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API_Caixa</name>
+    </assembly>
+    <members>
+        <member name="M:API_Caixa.Controllers.TB_Fluxo_CaixaController.GetTB_Fluxo_Caixa(System.DateTime)">
+            <summary>
+            Obter todos os registros
+            </summary>
+            <response code="200">A lista de usuários foi obtida com sucesso.</response>
+            <response code="500">Ocorreu um erro ao obter a lista de usuários.</response>
+        </member>
+    </members>
+</doc>
